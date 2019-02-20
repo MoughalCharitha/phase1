@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"img":"pic.svg",
+		"name":"charitha",
+		"roll":"1219",
+		"place":"guntur",
+		"email":"charithagujjula@gmail.com"
+	},
+	"carrier":{
+		"info":"I want to seek a job in Reputed Company to explore my taughts ."
+	},
+	"Education":[
+		{
+			"degree":"Btech",
+			"institute":"Vignan Nirula Institute Of Technolgy",
+			"per":"76%",
+			"yop":"2021"
+		},
+		{
+			"degree":"Intermediate",
+			"institute":"Lalitha junior College",
+			"per":"83%",
+			"yop":"2016"
+
+		},
+		{
+			"degree":"SSC",
+			"institute":"Sri Venkateswara Bala Kuteer",
+			"per":"76%",
+			"yop":"2015"
+		}
+	],
+	"languages":[
+		{
+			"info":"English"
+		},
+		{
+			"info":"Telugu"
+		},
+		{
+			"info":"Hindi"
+		}
+	]
+}
